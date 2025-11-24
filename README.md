@@ -1,2 +1,2 @@
-# .github
-Organization-wide Settings
+# Organization-wide Settings for XDB
+
